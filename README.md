@@ -3,6 +3,8 @@
 This is a Flutter implementation of William Wallace Cook's Plotto. So far I have been able to do the Lead ups and Carry ons but Includes are turning out to be quite difficult as there is no set rule as to where to insert the text. The project is updated to support the desktop platforms and the web. I am working on sound null safety and have updated the dependencies.
 Writers may find it useful to generate ideas.
 
+If you have any suggestions do let me know.
+
 # What's new in Version 2.1
 
 [Screencast from 2024-03-28 15-39-08.webm](https://github.com/quasar-pankaj/plot_generator/assets/4270836/da346dcf-04c6-4b95-819c-5b9dc717d701)
