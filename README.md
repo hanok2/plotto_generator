@@ -7,7 +7,7 @@ Writers may find it useful to generate ideas.
 
 [Screencast from 2024-03-28 15-39-08.webm](https://github.com/quasar-pankaj/plot_generator/assets/4270836/da346dcf-04c6-4b95-819c-5b9dc717d701)
 
-In this release I have revamped ti UI as shown below:
+In this release I have revamped the UI as shown below:
 ![Screenshot from 2022-09-15 14-56-51](https://user-images.githubusercontent.com/4270836/190370785-21f762b3-5bfa-4342-ac63-42cdfa3ec297.png)
 ![Screenshot from 2022-09-15 14-57-46](https://user-images.githubusercontent.com/4270836/190370830-931b67b1-5c76-44bf-9944-a4367490232c.png)
 
